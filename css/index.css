@@ -33,7 +33,7 @@ font-family: 'Poppins', sans-serif; */
 }
 html{
     font-size: 85%;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 body{
     background: var(--clr-body);
